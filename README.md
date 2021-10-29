@@ -17,6 +17,7 @@ Languages and Frameworks used to create the project.
 - Maven
 - iText
 - JavaX
+- Gson
 
 ### please delete the .pdf file always before running the project again.
 
